@@ -287,5 +287,6 @@ about these policies, please contact the chairs.
 
 ## Past Workshop
 
+* <a href="https://cpsiotsec2023.github.io" target="_blank"> <strong> CPSIoTSec 2023 </strong> </a>
 * <a href="https://cpsiotsec2022.github.io/cpsiotsec/" target="_blank"> <strong> CPSIoTSec 2022 </strong> </a>
 * <a href="https://cpsiotsec.github.io/" target="_blank"> <strong> CPSIoTSec 2021 </strong> </a>
