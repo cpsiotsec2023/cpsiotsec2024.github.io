@@ -213,7 +213,7 @@ about these policies, please contact the chairs.
 
 
 
-* **Paper Submission Site: TBA <!-- <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>** -->
+* **Paper Submission Site: TBA** <!-- <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>** -->
 
 
 <!--
