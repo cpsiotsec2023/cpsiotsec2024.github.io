@@ -4,7 +4,7 @@ layout: default_2024
 
 <!-- <br /> -->
 
-<!-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg/800px-Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg?20211029182715) -->
+![](https://upload.wikimedia.org/wikipedia/commons/2/27/Saltlakecity_winter2009.jpg)
 
 
 
