@@ -1,22 +1,22 @@
 ---
-layout: default_2023
+layout: default_2024
 ---
 
 <!-- <br /> -->
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg/800px-Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg?20211029182715)
+<!-- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg/800px-Canal_waterfront_by_night%2C_Vesterbro%2C_Copenhagen%2C_Denmark_%28PPL1-Corrected%29_julesvernex2.jpg?20211029182715) -->
 
 
 
 
 <p style="font-family: Arvo, Monaco, serif;
   line-height:1.3;
-	font-weight: normal;font-size: 30px;">The 5th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
+	font-weight: normal;font-size: 30px;">The 6th Joint Workshop on <br /> CPS & IoT Security and Privacy</p>
 
 
 
 <h4 style="margin-top: 0;"> <strong> In conjunction with the <br />  
-<a href="https://www.sigsac.org/ccs/CCS2023/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2023 </strong> </a> </strong> </h4>
+<a href="https://www.sigsac.org/ccs/CCS2024/" target="_blank"> <strong> ACM Conference on Computer and Communications Security 2024 </strong> </a> </strong> </h4>
 
 ## Background
 
@@ -25,7 +25,7 @@ The Joint Workshop on CPS&IoT Security and Privacy (CPSIoTSec) is the result of 
 
 
 ## Scope
-The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2023) invites academia, industry, and governmental entities to submit:
+The Workshop on CPS&IoT Security and Privacy (CPSIoTSec 2024) invites academia, industry, and governmental entities to submit:
 
 * Original research papers on the security and privacy of CPS&IoT
 * Systematization of Knowledge (SoK) papers on the security and privacy of CPS&IoT
@@ -56,11 +56,11 @@ Also of interest will be papers that can point the research community to new res
 and those that can set research agendas and priorities in CPS/IoT security and privacy.
 **There will be a best paper award.**
 
-
+<!--
 ## Program
 
 **Best paper award 2023:** <br />
-**&emsp;&emsp;&emsp;Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface. Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma** &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a>
+**&emsp;&emsp;&emsp;Brain-Hack: Remotely Injecting False Brain-Waves with RF to Take Control of a Brain-Computer Interface. Alexandre Armengol-Urpi, Reid Kovacs, and Sanjay E. Sarma** &emsp;<a href="https://dl.acm.org/doi/10.1145/3605758.3623497" target="_blank">https://dl.acm.org/doi/10.1145/3605758.3623497</a> 
 
 * Short paper: 20 minutes
 * Regular paper: 30 minutes
@@ -185,7 +185,7 @@ and those that can set research agendas and priorities in CPS/IoT security and p
 </tbody>
 </table>
 
-
+-->
 
 ## Submission Guidelines
 
@@ -213,17 +213,17 @@ about these policies, please contact the chairs.
 
 
 
-* **Paper Submission Site: <a href="https://cpsiotsec23.hotcrp.com/" target="_blank">https://cpsiotsec23.hotcrp.com/</a>**
+* **Paper Submission Site: <a href="https://cpsiotsec24.hotcrp.com/" target="_blank">https://cpsiotsec24.hotcrp.com/</a>**
 
 
 <!--
 <p> <strong> Please submit your work at <a href="https://easychair.org/conferences/?conf=cpsiotsec2020"> <strong> https://easychair.org/conferences/?conf=cpsiotsec2020 </strong> </a> </strong> </p> -->
 
 ## Important Dates
-- Submission deadline: <s>June 29, 2023 (23:59 Anywhere on Earth)</s> <s>July 13, AoE</s> July, 18 AoE (firm)
-- Notification of acceptance/rejection (tentative): August 18, 2023
-- Deadline for submission of camera-ready papers: September 8, 2023
-- Workshop date:  November 26, 2023
+- Submission deadline: TBA <!-- <s>June 29, 2024 (23:59 Anywhere on Earth)</s> --> <!-- <s>July 13, AoE</s> July, 18 AoE (firm) -->
+- Notification of acceptance/rejection (tentative): TBA
+- Deadline for submission of camera-ready papers: TBA
+- Workshop date:  TBA
 
 ## Program Chairs
 * Magnus Almgren, Chalmers University of Technology, Sweden
